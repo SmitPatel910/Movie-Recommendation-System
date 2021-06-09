@@ -75,7 +75,7 @@ Short Demo (Please Give it sometime to Load 😃)<br><br>
 <img src="./images/1.3.gif" alt="NaN"/><br>
  
 <h1>References</h1><br>
-Dataset and Features:<br>
+<b>Dataset and Features:</b><br>
 •	https://files.grouplens.org/datasets/movielens/ml-latest-small.zip<br>
 
 <b>Research Papers:</b><br>
