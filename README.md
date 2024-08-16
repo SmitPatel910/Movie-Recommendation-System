@@ -1,4 +1,4 @@
-# AI_MOVIE_RECOMMENDATION<br>
+# MOVIE RECOMMENDATION SYSTEM <br>
 This is a project in which we can recommend user movie of his/her preferences.<br>
    
 <h1>Problem Statement</h1><br>
